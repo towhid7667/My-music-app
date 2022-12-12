@@ -6,7 +6,7 @@ import g2 from "../img/music icon.png";
 
 const Feature = () => {
   return (
-    <div className="bg-[#020917] h-[60rem] relative z-[2] pt-36 mt-[-5rem]">
+    <div className="bg-[#020917] h-[60rem] relative z-[2] pt-36 mt-[-5rem] rounded-b-[70px]">
       <div className="flex flex-col items-center justify-center   ">
         <img src={s1} alt="" className="scale-[.4]" />
         <h1 className="text-2xl">An Amazing App Can Change Your Daily Life</h1>
